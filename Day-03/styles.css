@@ -1,0 +1,15 @@
+#text2 {
+  background-color: rgb(238, 155, 130);
+}
+
+span {
+  margin-top: 5px;
+  margin-left: 10px;
+  padding-top: 10px;
+  background-color: rebeccapurple;
+  color: wheat;
+}
+
+div {
+  border: 5px solid gold;
+}
